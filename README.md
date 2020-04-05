@@ -6,7 +6,7 @@ As a web developer, I need to a portfolio site deployed that will show my skills
 
 ![alternativetext](assets/img/prof.jpg)
 ## Website 
-  <a href=" https://abdurezakmussa.github.io/Updated-Portfolio-Page/"></a>
+   https://abdurezakmussa.github.io/Updated-Portfolio-Page/
 
 
 ## License
