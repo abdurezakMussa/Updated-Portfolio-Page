@@ -5,8 +5,8 @@ I made this site for the University of Richmond Bootcamp. The goal is to create 
 As a web developer, I need to a portfolio site deployed that will show my skills to potential employers and clients to hire me. This site also gives me an opportunity to introduce myself, while also providing a way for employers and clients to reach out to me.
 
 ![alternativetext](assets/img/prof.jpg)
-## Link
-<a href=" https://abdurezakmussa.github.io/Updated-Portfolio-Page/"></a>
+## Website 
+  <a href=" https://abdurezakmussa.github.io/Updated-Portfolio-Page/"></a>
 
 
 ## License
